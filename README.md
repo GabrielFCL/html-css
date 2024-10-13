@@ -18,7 +18,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href='https://gabrielfcl.github.io/html-css/exercicios/ex007/html4'>Executar o exercício 007</a>
 
-<a href='https://gabrielfcl.github.io/html-css/exercicios/ex001/html5'>Executar o exercício 007</a>
+<a href='https://gabrielfcl.github.io/html-css/exercicios/ex007/html5'>Executar o exercício 007</a>
 
 <a href='https://gabrielfcl.github.io/html-css/exercicios/ex008/index.html'>Executar o exercício 008</a>
 
