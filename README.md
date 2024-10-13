@@ -42,13 +42,13 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href='https://gabrielfcl.github.io/html-css/exercicios/ex017/fonte01'>Executar o exercício 017</a>
 
-<a href='https://gabrielfcl.github.io/html-css/exercicios/ex018/index.html'>Executar o exercício 018</a>
+<a href='https://gabrielfcl.github.io/html-css/exercicios/ex018/font01'>Executar o exercício 018</a>
 
-<a href='https://gabrielfcl.github.io/html-css/exercicios/ex019/index.html'>Executar o exercício 019</a>
+<a href='https://gabrielfcl.github.io/html-css/exercicios/ex019/seletor01'>Executar o exercício 019</a>
 
-<a href='https://gabrielfcl.github.io/html-css/exercicios/ex020/index.html'>Executar o exercício 020</a>
+<a href='https://gabrielfcl.github.io/html-css/exercicios/ex020/hover'>Executar o exercício 020</a>
 
-<a href='https://gabrielfcl.github.io/html-css/exercicios/ex021/index.html'>Executar o exercício 021</a>
+<a href='https://gabrielfcl.github.io/html-css/exercicios/ex021/caixa01'>Executar o exercício 021</a>
 
 
 
