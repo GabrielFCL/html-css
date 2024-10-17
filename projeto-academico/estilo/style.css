@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor0:#C9D15D;
+    --cor1:#03AB07;
+    --cor2:#1E5631;
+    --cor3:#113D20;
+}
+
+
+
+body {
+    background-color:#80ad715b;
+}
+
+main {
+    min-width: 280px;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.418);
+    
+}
+
+main p {
+    text-indent: 30px;
+    font-family: 'Times New Roman', Times, serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1em;
+    line-height: 2em;
+    padding: 0px 0px 20px 0px;
+    
+}
+
+main h1 {
+    
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.377);
+    color: var(--cor3);
+    background-image: linear-gradient(to right, #80ad715b,transparent);
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    text-align: justify;
+}
+
+main h2 {
+    padding-bottom: 10px;
+}
+
+
+
+img {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    text-align: right;
+    color: var(--cor3);
+    
+
+}
+
+a:hover {
+    color: #03AB07;
+    
+
+}
+
+
+
+
+
+
